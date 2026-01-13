@@ -7,9 +7,9 @@ No unnecessary complexity. No magic. Just tools that are easy to use and easy to
 
 > Software should help — not get in the way.
 
----
 
-## 🌱 Get involved
+
+### 🌱 Get involved
 
 You’re welcome to:
 - Open issues with ideas or bug reports
